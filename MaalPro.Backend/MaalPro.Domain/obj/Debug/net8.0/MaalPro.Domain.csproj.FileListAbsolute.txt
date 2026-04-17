@@ -1,0 +1,13 @@
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/bin/Debug/net8.0/MaalPro.Domain.deps.json
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/bin/Debug/net8.0/MaalPro.Domain.dll
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/bin/Debug/net8.0/MaalPro.Domain.pdb
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/MaalPro.Domain.csproj.AssemblyReference.cache
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/MaalPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/MaalPro.Domain.AssemblyInfoInputs.cache
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/MaalPro.Domain.AssemblyInfo.cs
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/MaalPro.Domain.csproj.CoreCompileInputs.cache
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/MaalPro.Domain.sourcelink.json
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/MaalPro.Domain.dll
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/refint/MaalPro.Domain.dll
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/MaalPro.Domain.pdb
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/Debug/net8.0/ref/MaalPro.Domain.dll

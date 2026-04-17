@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Api/MaalPro.Api.csproj": {}
+  },
+  "projects": {
+    "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Api/MaalPro.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Api/MaalPro.Api.csproj",
+        "projectName": "MaalPro.Api",
+        "projectPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Api/MaalPro.Api.csproj",
+        "packagesPath": "/home/noor/.nuget/packages/",
+        "outputPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/noor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Infrastructure/MaalPro.Infrastructure.csproj": {
+                "projectPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Infrastructure/MaalPro.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/MaalPro.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/MaalPro.Application.csproj",
+        "projectName": "MaalPro.Application",
+        "projectPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/MaalPro.Application.csproj",
+        "packagesPath": "/home/noor/.nuget/packages/",
+        "outputPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/noor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/MaalPro.Domain.csproj": {
+                "projectPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/MaalPro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/MaalPro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/MaalPro.Domain.csproj",
+        "projectName": "MaalPro.Domain",
+        "projectPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/MaalPro.Domain.csproj",
+        "packagesPath": "/home/noor/.nuget/packages/",
+        "outputPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/noor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Infrastructure/MaalPro.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Infrastructure/MaalPro.Infrastructure.csproj",
+        "projectName": "MaalPro.Infrastructure",
+        "projectPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Infrastructure/MaalPro.Infrastructure.csproj",
+        "packagesPath": "/home/noor/.nuget/packages/",
+        "outputPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/noor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/MaalPro.Application.csproj": {
+                "projectPath": "/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/MaalPro.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

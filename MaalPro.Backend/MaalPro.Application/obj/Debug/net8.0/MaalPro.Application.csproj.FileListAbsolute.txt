@@ -1,0 +1,16 @@
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/bin/Debug/net8.0/MaalPro.Application.deps.json
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/bin/Debug/net8.0/MaalPro.Application.dll
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/bin/Debug/net8.0/MaalPro.Application.pdb
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/bin/Debug/net8.0/MaalPro.Domain.dll
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/bin/Debug/net8.0/MaalPro.Domain.pdb
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.csproj.AssemblyReference.cache
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.AssemblyInfoInputs.cache
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.AssemblyInfo.cs
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.csproj.CoreCompileInputs.cache
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.sourcelink.json
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.csproj.CopyComplete
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.dll
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/refint/MaalPro.Application.dll
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/MaalPro.Application.pdb
+/home/noor/development/code/projects/C-_authentication/MaalPro.Backend/MaalPro.Application/obj/Debug/net8.0/ref/MaalPro.Application.dll
